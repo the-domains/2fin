@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-05T16:40:27.536Z'
+datePublished: '2016-08-05T16:41:43.266Z'
 sourcePath: _posts/2016-04-15-moleskines-comprehensive-smart-writing-set.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/tech/moleskine-smart-writing-set'
-hasPage: false
+hasPage: true
 keywords:
   - moleskin
   - pen
@@ -17,7 +16,7 @@ keywords:
   - pages
 related: []
 author: []
-dateModified: '2016-08-05T16:40:18.626Z'
+dateModified: '2016-08-05T16:41:42.260Z'
 title: Moleskine's Comprehensive Smart Writing Set
 app_links: []
 publisher:
@@ -34,6 +33,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: moleskines-comprehensive-smart-writing-set/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
