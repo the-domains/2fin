@@ -1,0 +1,14 @@
+layout_spectrum: 0.24312407057732344
+typography_spectrum: 0.5116135249845684
+color:
+  brandStrength: 0.43013009731657803
+  lightness: 0.38473521755076945
+  saturation: 0.8923312949482352
+  rhythmicContrast: 0.61245818878524
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 2Fin
