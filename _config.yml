@@ -6,9 +6,13 @@ color:
   saturation: 0.8923312949482352
   rhythmicContrast: 0.61245818878524
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: 2Fin
+navigation:
+  - name: Moleskine's Comprehensive Smart Writing Set
+    id: cb1b1dfe-07f2-47c0-81c0-9f77de8e42a9
+    type: content
